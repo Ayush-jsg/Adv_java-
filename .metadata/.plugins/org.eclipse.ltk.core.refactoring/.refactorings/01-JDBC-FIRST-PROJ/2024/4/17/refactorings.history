@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.ashok.in.InsertData&apos; to &apos;InsertBook&apos;&#x0D;&#x0A;- Original project: &apos;01-JDBC-FIRST-PROJ&apos;&#x0D;&#x0A;- Original element: &apos;com.ashok.in.InsertData&apos;&#x0D;&#x0A;- Renamed element: &apos;com.ashok.in.InsertBook&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;InsertData&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.ashok.in{InsertData.java[InsertData" matchStrategy="1" name="InsertBook" qualified="false" references="true" similarDeclarations="false" stamp="1714080765115" textual="false" version="1.0"/>
+</session>
